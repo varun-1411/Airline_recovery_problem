@@ -37,7 +37,7 @@ Existing recovery methods often have limitations such as:
 
 ### Tools
 - Optimization Solver: Gurobi
-- Programming Language: (Specify your implementation language)
+- Programming Language: Python
 
 ### Problem Formulation
 - Sets:
@@ -64,7 +64,7 @@ Existing recovery methods often have limitations such as:
 
 ### Key Outcomes
 - Total Operating Costs: 4.21 million euros
-- Delay, Downgrade, Cancellation Costs: 46.8 million dollars
+- Delay, Downgrade, Cancellation Costs: 4.8 million dollars
 - Optimal Flights Served: 291
 - Passengers Transported: 28,377
 - Aircraft Utilized: 78
@@ -88,7 +88,6 @@ Existing recovery methods often have limitations such as:
 
 ## Dependencies
 - Gurobi Optimizer
-- (List other specific dependencies)
 
 ## Future Work
 - Improve computational efficiency
@@ -98,8 +97,3 @@ Existing recovery methods often have limitations such as:
 ## References
 - Ball et al. (reference from original paper)
 
-## License
-(Specify your project's license)
-
-## Contact
-(Your contact information)
